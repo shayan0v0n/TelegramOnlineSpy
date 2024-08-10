@@ -67,7 +67,7 @@ Create bot in your telegram client (write a message to @BotFather) and copy bot 
 
 ---
 
-### Crontjob
+### Cronjob
 
 Handy cronjob makros
 
